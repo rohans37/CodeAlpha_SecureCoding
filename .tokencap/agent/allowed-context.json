@@ -1,0 +1,6 @@
+{
+  "other": [
+    "secure_app*",
+    "vulnerable_app*"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "0.8",
+  "projectName": "CodeAlpha_Secure Coding Review",
+  "generatedAt": "2026-11-18T04:53:26.111Z",
+  "projectType": "Flask",
+  "techStack": {
+    "languages": [
+      "Python"
+    ],
+    "frameworks": [
+      "Flask"
+    ],
+    "databases": [],
+    "auth": [],
+    "testing": [],
+    "buildTools": [],
+    "cloudSdks": [],
+    "payments": [],
+    "externalServices": []
+  },
+  "architecture": {
+    "style": "Modular",
+    "layers": [
+      "Modular"
+    ],
+    "clusters": [
+      {
+        "name": "Unclassified",
+        "size": 2,
+        "risk": "LOW",
+        "centralFile": "secure_app.py"
+      }
+    ],
+    "criticalChains": [],
+    "evidence": []
+  },
+  "criticalFiles": [],
+  "riskAreas": [],
+  "reviewGroups": [],
+  "rules": [],
+  "coreFeatures": [],
+  "agentInjectHooks": {}
+}

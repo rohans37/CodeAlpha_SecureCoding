@@ -1,0 +1,22 @@
+
+users.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv/
+venv/
+env/
+
+# Flask / Python debug output
+*.log
+
+# OS generated files
+Thumbs.db
+
+# pyrefly
+.pyrefly/

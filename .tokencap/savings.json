@@ -1,0 +1,40 @@
+{
+  "baseline": {
+    "tokens": 16770,
+    "dollars": 0.041925
+  },
+  "actual": {
+    "tokens": 6056,
+    "dollars": 0.01514
+  },
+  "savings": {
+    "tokens": 10714,
+    "dollars": 0.026784999999999996,
+    "percent": 63.9
+  },
+  "generatedAt": "2026-11-18T04:53:25.630Z",
+  "profile": "balanced",
+  "stats": {
+    "version": 2,
+    "runCount": 1,
+    "totalTokensSaved": 10714,
+    "lastBuildSavings": 10714,
+    "lastBuildAt": "2026-11-18T04:53:25.630Z",
+    "notifiedMilestones": [],
+    "newMilestones": [],
+    "notice": null,
+    "baselineDefinition": "Eligible redacted text source files before ranking, selection, or compression.",
+    "tokenizerProfile": "tokencap-estimate-v1",
+    "runs": [
+      {
+        "generatedAt": "2026-11-18T04:53:25.630Z",
+        "profile": "balanced",
+        "baselineTokens": 16770,
+        "snapshotTokens": 6056,
+        "savedTokens": 10714,
+        "tokenizerProfile": "tokencap-estimate-v1",
+        "baselineDefinition": "Eligible redacted text source files before ranking, selection, or compression."
+      }
+    ]
+  }
+}

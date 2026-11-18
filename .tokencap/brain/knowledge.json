@@ -1,0 +1,55 @@
+{
+  "version": "0.9",
+  "generatedAt": "2026-11-18T04:53:26.799Z",
+  "techStack": {
+    "languages": [
+      "Python"
+    ],
+    "frameworks": [
+      "Flask"
+    ],
+    "databases": [],
+    "orms": [],
+    "auth": [],
+    "testing": [],
+    "buildTools": [],
+    "cloudSdks": [],
+    "payments": [],
+    "other": [],
+    "packageManager": null,
+    "summary": "Python  Flask"
+  },
+  "clusters": [
+    {
+      "name": "Other",
+      "files": [
+        "secure_app.py",
+        "vulnerable_app.py"
+      ],
+      "risk": "LOW",
+      "centralFile": "secure_app.py",
+      "dependsOn": [],
+      "usedBy": []
+    }
+  ],
+  "criticalFiles": [],
+  "architecture": {
+    "style": "Modular",
+    "layers": [
+      "Modular"
+    ],
+    "criticalChains": []
+  },
+  "riskAreas": [],
+  "reviewGroups": [],
+  "recentChanges": {
+    "branch": "main",
+    "filesChanged": 1,
+    "riskLevel": "LOW",
+    "featuresAdded": [],
+    "featuresModified": [
+      "Documentation: README"
+    ]
+  },
+  "rules": []
+}
